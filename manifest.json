@@ -3,7 +3,7 @@
 	"author": "kamarov",
 	"version": "1.0.0",
 	"manifest_version": 3,
-	"description": "An UI extension that aims to improve visual appearance of tanks in mazes",
+	"description": "Improve visual appearance of tanks in mazes",
 	"icons": {
 		"128": "src/icon/icon128.png"
 	},
