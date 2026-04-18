@@ -1,0 +1,43 @@
+{
+	"name": "Textured Tanks",
+	"author": "kamarov",
+	"version": "1.0.0",
+	"manifest_version": 3,
+	"description": "An UI extension that aims to improve visual appearance of tanks in mazes",
+	"icons": {
+		"128": "src/icon/icon128.png"
+	},
+
+	"declarative_net_request": {
+		"rule_resources": []
+	},
+
+	"permissions": [
+		"declarativeNetRequest",
+		"declarativeNetRequestFeedback",
+		"declarativeNetRequestWithHostAccess",
+		"storage",
+		"activeTab"
+	],
+
+	"host_permissions": [
+		"*://*.tanktrouble.com/",
+		"*://*.raw.githubusercontent.com/"
+	],
+
+	"content_scripts": [
+		{
+			"matches": ["*://*.tanktrouble.com/*"],
+			"js": ["src/scripts/preload.js", "src/scripts/tankSprites.js"],
+			"run_at": "document_idle",
+            "world": "MAIN"
+		}
+	],
+
+
+
+	"web_accessible_resources": [{
+		"resources": [""],
+		"matches": [ "*://*.tanktrouble.com/*" ]
+	}]
+}

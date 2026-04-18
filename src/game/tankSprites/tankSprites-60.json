@@ -1,0 +1,403 @@
+{
+    "frames": [
+        {
+            "filename": "base",
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 34,
+                "h": 42
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 34,
+                "h": 42
+            },
+            "sourceSize": {
+                "w": 34,
+                "h": 42
+            }
+        },
+        {
+            "filename": "turret0",
+            "frame": {
+                "x": 40,
+                "y": 0,
+                "w": 34,
+                "h": 41
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+				"w": 34,
+                "h": 41
+            },
+            "sourceSize": {
+				"w": 34,
+                "h": 41
+            }
+        },
+        {
+            "filename": "turret1",
+            "frame": {
+                "x": 74,
+                "y": 0,
+				"w": 34,
+                "h": 41
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+				"w": 34,
+                "h": 41
+            },
+            "sourceSize": {
+				"w": 34,
+                "h": 41
+            }
+        },
+        {
+            "filename": "turret2",
+            "frame": {
+                "x": 0,
+                "y": 42,
+				"w": 34,
+                "h": 41
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+				"w": 34,
+                "h": 41
+            },
+            "sourceSize": {
+				"w": 34,
+                "h": 41
+            }
+        },
+        {
+            "filename": "turret3",
+            "frame": {
+                "x": 34,
+                "y": 42,
+				"w": 34,
+                "h": 41
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+				"w": 34,
+                "h": 41
+            },
+            "sourceSize": {
+				"w": 34,
+                "h": 41
+            }
+        },
+        {
+            "filename": "turret4",
+            "frame": {
+                "x": 68,
+                "y": 42,
+				"w": 34,
+                "h": 41
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+				"w": 34,
+                "h": 41
+            },
+            "sourceSize": {
+				"w": 34,
+                "h": 41
+            }
+        },
+        {
+            "filename": "turret5",
+            "frame": {
+                "x": 0,
+                "y": 83,
+				"w": 34,
+                "h": 41
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+				"w": 34,
+                "h": 41
+            },
+            "sourceSize": {
+                "w": 26,
+                "h": 41
+            }
+        },
+        {
+            "filename": "turret6",
+            "frame": {
+                "x": 34,
+                "y": 83,
+				"w": 34,
+                "h": 41
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+				"w": 34,
+                "h": 41
+            },
+            "sourceSize": {
+				"w": 34,
+                "h": 41
+            }
+        },
+        {
+            "filename": "turret7",
+            "frame": {
+                "x": 68,
+                "y": 83,
+				"w": 34,
+                "h": 41
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+				"w": 34,
+                "h": 41
+            },
+            "sourceSize": {
+				"w": 34,
+                "h": 41
+            }
+        },
+        {
+            "filename": "turret8",
+            "frame": {
+                "x": 0,
+                "y": 124,
+				"w": 34,
+                "h": 41
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+				"w": 34,
+                "h": 41
+            },
+            "sourceSize": {
+				"w": 34,
+                "h": 41
+            }
+        },
+        {
+            "filename": "turret9",
+            "frame": {
+                "x": 34,
+                "y": 124,
+				"w": 34,
+                "h": 41
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+				"w": 34,
+                "h": 41
+            },
+            "sourceSize": {
+				"w": 34,
+                "h": 41
+            }
+        },
+        {
+            "filename": "turret10",
+            "frame": {
+                "x": 68,
+                "y": 124,
+				"w": 34,
+                "h": 41
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+				"w": 34,
+                "h": 41
+            },
+            "sourceSize": {
+				"w": 34,
+                "h": 41
+            }
+        },
+        {
+            "filename": "turret11",
+            "frame": {
+                "x": 0,
+                "y": 165,
+				"w": 34,
+                "h": 41
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+				"w": 34,
+                "h": 41
+            },
+            "sourceSize": {
+				"w": 34,
+                "h": 41
+            }
+        },
+        {
+            "filename": "turret12",
+            "frame": {
+                "x": 34,
+                "y": 165,
+				"w": 34,
+                "h": 41
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+				"w": 34,
+                "h": 41
+            },
+            "sourceSize": {
+				"w": 34,
+                "h": 41
+            }
+        },
+        {
+            "filename": "turret13",
+            "frame": {
+                "x": 68,
+                "y": 165,
+				"w": 34,
+                "h": 41
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+				"w": 34,
+                "h": 41
+            },
+            "sourceSize": {
+				"w": 34,
+                "h": 41
+            }
+        },
+        {
+            "filename": "turret14",
+            "frame": {
+                "x": 0,
+                "y": 206,
+				"w": 34,
+                "h": 41
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+				"w": 34,
+                "h": 41
+            },
+            "sourceSize": {
+                "w": 26,
+                "h": 41
+            }
+        },
+        {
+            "filename": "turret15",
+            "frame": {
+                "x": 34,
+                "y": 206,
+				"w": 34,
+                "h": 41
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+				"w": 34,
+                "h": 41
+            },
+            "sourceSize": {
+				"w": 34,
+                "h": 41
+            }
+        },
+        {
+            "filename": "turret16",
+            "frame": {
+                "x": 68,
+                "y": 206,
+				"w": 34,
+                "h": 41
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+				"w": 34,
+                "h": 41
+            },
+            "sourceSize": {
+				"w": 34,
+                "h": 41
+            }
+        },
+        {
+            "filename": "tread",
+            "frame": {
+                "x": 34,
+                "y": 0,
+                "w": 6,
+                "h": 40
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 6,
+                "h": 40
+            },
+            "sourceSize": {
+                "w": 6,
+                "h": 40
+            }
+        }
+    ]
+}
