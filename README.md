@@ -1,2 +1,2 @@
-# Tanks
-An UI extension aiming to improve visual appearances of tanks in mazes
+# Textured Tanks
+Extension aiming to improve visual appearances of tanks in mazes
